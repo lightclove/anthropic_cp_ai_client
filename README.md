@@ -56,7 +56,7 @@ python ai_client.py \
 ### Показать помощь:
 
 ```bash
-python cli.py --help
+python ai_client.py --help
 ```
 
 ### Параметры
@@ -65,7 +65,7 @@ python cli.py --help
 
 - --api-key	    Да	            API ключ от ProxyAPI
 
-- --model	Да	  Выбор модели   (см. список ниже)
+- --model	       Да	  Выбор модели   (см. список ниже)
 
 - --prompt	    Нет*	          Текст запроса
 
