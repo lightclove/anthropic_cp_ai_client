@@ -20,7 +20,7 @@
 1. Клонируйте репозиторий:
 
 ```bash
-git clone https://github.com/yourusername/anthropic-proxy-cli.git
+git clone https://github.com/lightclove/anthropic-proxy-cli.git
 cd anthropic-proxy-cli
 ```
 
